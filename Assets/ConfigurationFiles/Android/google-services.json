@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "384114163885",
+    "project_id": "cursus-honorum-d2963",
+    "storage_bucket": "cursus-honorum-d2963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384114163885:android:4009f49a4f6c37516f4624",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384114163885-8bv07ufbanheohtil5bbpkegkq3qpof1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKz7NRxKV4HNjeOy6ILgbim8U9nuE5LiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384114163885-8bv07ufbanheohtil5bbpkegkq3qpof1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384114163885-47ku3u8hpejl1lufgv4msi2s0n7h7tt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.com.unity.template.mobile2D"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
